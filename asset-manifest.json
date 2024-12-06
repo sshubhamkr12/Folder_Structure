@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FolderStructure/static/css/main.e6c13ad2.css",
+    "main.js": "/FolderStructure/static/js/main.8badce18.js",
+    "index.html": "/FolderStructure/index.html",
+    "main.e6c13ad2.css.map": "/FolderStructure/static/css/main.e6c13ad2.css.map",
+    "main.8badce18.js.map": "/FolderStructure/static/js/main.8badce18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8badce18.js"
+  ]
+}
