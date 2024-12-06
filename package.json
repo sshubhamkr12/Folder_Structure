@@ -1,4 +1,5 @@
 {
+  "homepage":"https://sshubhamkr12.github.io/Folder_Structure",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +10,8 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "deploy": "gh-pages -d build",
+    "predeploy":"npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
